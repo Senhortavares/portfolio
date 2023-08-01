@@ -1,0 +1,31 @@
+.Footer{
+    display: flex;
+    justify-content: center;
+}
+
+.Footer div{
+    background: rgba(1,9,28,0.75);
+    width: 100%;
+}
+
+.Footer ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+    margin-top: 50px;
+}
+
+.Footer a{
+    color:aliceblue;
+
+}
+
+.Footer li{
+    margin-left: 15px;
+}
+    
+
+.Footer p{
+    margin: 25px;
+}
